@@ -11,6 +11,7 @@
 - [Infrastructure](#infrastructure)
 - [DEXs & Liquidity](#dexs--liquidity)
 - [Oracles & Data](#oracles--data)
+- [Community Data & Risk Analytics](#community-data--risk-analytics)
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
 - [Agents & Automation](#agents--automation)
@@ -32,6 +33,13 @@
 
 - `[live]` **[Chainlink](https://chain.link)** — the canonical price oracle for Robinhood Chain.
 - `[beta]` **On-chain NAV feeds** — continuous mark prices for tokenized equities.
+
+## Community Data & Risk Analytics
+
+- `[live]` **[Blockscout](https://robinhoodchain.blockscout.com)** — explorer API for tokens, holders, contract verification, transactions, and chain stats.
+- `[live]` **[GeckoTerminal Robinhood](https://www.geckoterminal.com/robinhood/pools)** — public DEX pool data, liquidity, prices, volume, and swap activity across Robinhood Chain pools.
+- `[live]` **[CoinGecko Robinhood Chain Meme](https://www.coingecko.com/en/categories/robinhood-chain-meme)** — category view for Robinhood Chain community tokens, market cap, volume, and top assets.
+- `[experimental]` **[robinhood-chain-mcp](https://github.com/arambarnett/robinhood-chain-mcp)** — read-only MCP server exposing tokens, wallets, feeds, heat scores, and risk flags to agents.
 
 ## Wallets & Custody
 
@@ -55,7 +63,7 @@
 
 ## Contributing
 
-Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries factual, one line, with a maturity tag.
+Contributions welcome. Keep entries factual, one line, and include a maturity tag.
 
 ## License
 
