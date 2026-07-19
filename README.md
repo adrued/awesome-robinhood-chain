@@ -10,6 +10,7 @@
 
 - [Infrastructure](#infrastructure)
 - [DEXs & Liquidity](#dexs--liquidity)
+- [DeFi & NFTFi](#defi--nftfi)
 - [Oracles & Data](#oracles--data)
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
@@ -27,6 +28,10 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+
+## DeFi & NFTFi
+
+- `[live]` **[StonkBrokers](https://www.stonkbrokers.cash)** — fixed-supply 4,444 ERC-721 collection with Anvil NFTFi marketplace; `$STONKBROKER` ERC-20 (`0xe934e36A439C94017B64a3FecE66AF12099aBF50`) trades on Uniswap V4.
 
 ## Oracles & Data
 
