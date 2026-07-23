@@ -47,6 +47,7 @@
 
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
+- `[live]` **[rhxbt](https://rhxbt.com)** — onchain intelligence terminal + autonomous X agent ([@0xrhXBT](https://x.com/0xrhXBT)): trend-scored token board, same-block launch radar with safety screens, verified KOL leaderboard, L1 bridge capital flow and tokenized-stock premium tracking. Open-source [robinhood-chain-kit](https://github.com/mkrz-x/robinhood-chain-kit).
 
 ## Docs & Learning
 
