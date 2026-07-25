@@ -52,6 +52,7 @@
 
 - **[Robinhood Chain overview](https://robinhood.com)** — official announcement and docs.
 - **[Chainlink on Orbit](https://docs.chain.link)** — integrating the oracle.
+- **[Robinhood Chain Wiki](https://robinhoodchain.wiki/)** — Community-maintained guides for RPC setup, bridging, swaps, gas fees, faucets, wallets, and developer tools.
 
 ## Contributing
 
