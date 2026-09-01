@@ -10,6 +10,7 @@
 
 - [Infrastructure](#infrastructure)
 - [DEXs & Liquidity](#dexs--liquidity)
+- [Discovery](#discovery)
 - [Oracles & Data](#oracles--data)
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
@@ -27,6 +28,10 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+
+## Discovery
+
+- `[live]` **[DEX Ranks](https://dexranks.com)** — paid token leaderboard. Highest whole-dollar USD bid sits on top. `$RANKS` burns on Robinhood Chain (chain id 4663).
 
 ## Oracles & Data
 
