@@ -10,6 +10,7 @@
 
 - [Infrastructure](#infrastructure)
 - [DEXs & Liquidity](#dexs--liquidity)
+- [Lending](#lending)
 - [Oracles & Data](#oracles--data)
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
@@ -27,6 +28,10 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+
+## Lending
+
+- `[live]` **[Solon](https://solonlend.xyz)** — Morpho-based lending: supply USDG or borrow against issuer-verified tokenized stocks; on-chain beacon check flags impostor collateral.
 
 ## Oracles & Data
 
