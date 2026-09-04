@@ -42,9 +42,11 @@
 
 - `[live]` **[viem](https://viem.sh)** — typed client that talks to Robinhood Chain out of the box.
 - `[beta]` **[Foundry](https://getfoundry.sh)** — deploy and test Orbit contracts.
+- `[live]` **[HyperSpeed Factory](https://github.com/robynhood-fw/robyn-llm-framework)** — ERC-1167 minimal proxy launcher & direct sequencer pipeline enabling sub-100ms and ultra-low-gas (<42k gas / <$0.0009) token launches.
 
 ## Agents & Automation
 
+- `[live]` **[Robyn Framework](https://github.com/robynhood-fw/robyn-llm-framework)** — autonomous AI agent and EVM execution engine for Robinhood Chain. Features sub-80ms zero-approval DEX swaps (4x faster than Solana) and autonomous meme-to-stock profit hedging.
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
 
