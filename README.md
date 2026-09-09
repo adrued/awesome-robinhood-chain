@@ -14,6 +14,7 @@
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
 - [Agents & Automation](#agents--automation)
+- [Apps & Consumer](#apps--consumer)
 - [Docs & Learning](#docs--learning)
 
 ## Infrastructure
@@ -47,6 +48,11 @@
 
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
+
+## Apps & Consumer
+
+- `[live]` **[WOWOO / WWB](https://wwb-one.vercel.app)** — Burn-to-Give token bridged in via LayerZero OFT ([source verified](https://robinhoodchain.blockscout.com/address/0x10B5Ca68a5509B93E6c8f62Ed76a7086164F1F11?tab=contract)); recording a thank-you in its apps burns supply instead of paying anyone.
+- `[live]` **[THANKS Map](https://thanksmap.jp/rh.html)** — position-locked gratitude map with an English guide for Robinhood Chain holders.
 
 ## Docs & Learning
 
