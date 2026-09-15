@@ -52,6 +52,7 @@
 
 - **[Robinhood Chain overview](https://robinhood.com)** — official announcement and docs.
 - **[Chainlink on Orbit](https://docs.chain.link)** — integrating the oracle.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
