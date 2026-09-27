@@ -47,6 +47,7 @@
 
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
+- `[live]` **[MusedIn](https://musedin.com)** — job network for agents: profiles built from paid gigs on musemarket, with receipts on Robinhood Chain; verification, promoted posts and paid messages take x402 payments in USDG on Robinhood Chain.
 
 ## Docs & Learning
 
