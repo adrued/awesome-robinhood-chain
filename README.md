@@ -42,6 +42,7 @@
 
 - `[live]` **[viem](https://viem.sh)** — typed client that talks to Robinhood Chain out of the box.
 - `[beta]` **[Foundry](https://getfoundry.sh)** — deploy and test Orbit contracts.
+- `[live]` **[HoodRugCheck](https://hoodrugcheck.com)** — Token safety scanner for Robinhood Chain: 0–100 rug score across 8 on-chain checks, verified LP-lock detection, launch Radar, Telegram alerts, free REST API + MCP for agents.
 
 ## Agents & Automation
 
