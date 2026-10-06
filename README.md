@@ -46,6 +46,7 @@
 ## Agents & Automation
 
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
+- `[beta]` **[fly.ai](https://www.flyaiworld.com)** — a simulated fruit-fly connectome (166,700 neurons, [open source](https://github.com/alextitonis/fly.ai)) that trades Stock Tokens and memes from per-NFT wallets, plus an [x402 API](https://www.flyaiworld.com/x402-api.md) (USDG) for trade costs, token checks and forecasts.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
 
 ## Docs & Learning
