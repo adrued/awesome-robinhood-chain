@@ -14,6 +14,7 @@
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
 - [Agents & Automation](#agents--automation)
+- [Games & NFTs](#games--nfts)
 - [Docs & Learning](#docs--learning)
 
 ## Infrastructure
@@ -47,6 +48,10 @@
 
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
+
+## Games & NFTs
+
+- `[live]` **[Stockmon](https://www.stockmon.app)**: creature collector game. NFT creatures built from tokenized-stock DNA, Genesis vaults that hold Stock Tokens, and collector breeding ([X](https://x.com/stockmonrh) · [Discord](https://discord.gg/8BzVDhAvcE)).
 
 ## Docs & Learning
 
