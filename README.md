@@ -10,6 +10,7 @@
 
 - [Infrastructure](#infrastructure)
 - [DEXs & Liquidity](#dexs--liquidity)
+- [NFTs & Collectibles](#nfts--collectibles)
 - [Oracles & Data](#oracles--data)
 - [Wallets & Custody](#wallets--custody)
 - [Developer Tooling](#developer-tooling)
@@ -27,6 +28,10 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+
+## NFTs & Collectibles
+
+- `[live]` **[Mintegra](https://mintegra.tech/)** — proof-of-work mined gemstone NFTs: browser CPU/GPU keccak-256 mining, no mint button, 70% of every mint paid to stakers as on-chain dividends.
 
 ## Oracles & Data
 
