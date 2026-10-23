@@ -20,6 +20,7 @@
 
 - `[live]` **[Arbitrum Orbit](https://arbitrum.io/orbit)** — the L2 stack Robinhood Chain is built on.
 - `[live]` **[Robinhood Chain RPC](https://robinhood.com)** — public JSON-RPC for reads and transactions.
+- `[live]` **[BlockVectra](https://docs.blockvectra.com/en/guides/robinhood-chain/)** — Robinhood Chain mainnet and testnet HTTP JSON-RPC; WebSocket access requires an API key.
 - `[live]` **Stock Tokens** — tokenized equities (NVDA, AAPL, GOOG…) as ERC-20s with 24/7 markets.
 
 ## DEXs & Liquidity
