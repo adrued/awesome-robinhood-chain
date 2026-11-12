@@ -27,6 +27,7 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+- `[live]` **[ALPHA](https://alphapad.xyz)** — Multi-chain token launchpad on nine chains; launch on Robinhood Chain priced in ETH or stock tokens, with $ALPHA buyback and burn from protocol fees.
 
 ## Oracles & Data
 
