@@ -24,6 +24,7 @@
 
 ## DEXs & Liquidity
 
+- `[live]` **[Stoa](https://stoadex.com)** — open-source swap router that compares Uniswap V2/V3/V4, Aero, Ramses and Pons curves for each trade; free token safety check, limit orders and stock tokens.
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
